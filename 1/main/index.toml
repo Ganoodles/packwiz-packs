@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "6fcdc40991c6908b33d0fd32ea0739e301e30421d313ed3e8b91e566a4a793d1"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "31a2cebe38263fbb036b172260430c029dd459955fc836ee05d98bce15ecc235"
-
-[[files]]
 file = "mods/additional-lights.pw.toml"
-hash = "552a35af058af56df7aff880194c1b21dabaaf3b3d7ebbe41812901ec0beab0f"
+hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
 metafile = true
 
 [[files]]
@@ -35,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f094bca8f5d15e36dfc6d3e269d3524a6fea6fb67611d00605319c7eaaacf83e"
+hash = "50a4b0571e2fb6dbc7522fed38ca39089bfb34e2dcfb638fbb0e87134800a26c"
 metafile = true
 
 [[files]]
@@ -125,17 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "5c4e8084c94e1643024008f7458b126b9af17b8f88acad2190a06471deef01a7"
+hash = "e7d10d0a09ad04ad80fa377243546f4aaf2740feac244a5409a01018160f62a6"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "823537b84dc4c55889d23255e42248e6eeb02fad57c46aa694b6ce26451a4a86"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "589811220383729ea17edc4a87188130df3612be52e6abcf2deb466e5f548af0"
 metafile = true
 
 [[files]]
@@ -285,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "828279ded0a0b1d151afcfb067691ac353cfc459cc6763ea4b976203559ae686"
+hash = "c16809bbd0291ca38cff60aaae308581f4e5dd19a418a8d679a08d3ae4dd2022"
 metafile = true
 
 [[files]]
@@ -335,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4932c23c8228894af61844bab27073f9d189a061459ccc4f14c8dbd94c0e238c"
+hash = "29763dd44c605cdb37dac57f7aaa180a71d71c3696b90ccbcd85523f4c7cd217"
 metafile = true
 
 [[files]]
@@ -355,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "834594d7a475a21a212f2fcfef6cb94796e42c13a135c710ef32acd1d3ec7e17"
+hash = "b19f7d5da268c4d26bcc2227735fe26b7d89ac5325e0f56a56fa4ffe9f34aa72"
 metafile = true
 
 [[files]]
@@ -375,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5ee2c0d175a1018ca40e6ded917f9db40dadc120888388612bee5d6eb2ac26c5"
+hash = "4d96a506e499dd7722bf1f371100b506dcba8ae3284f88ffefcb4d5c16fbcac8"
 metafile = true
 
 [[files]]
@@ -405,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "752aece55823683da47d669d83c067c9a2a680cf2b39039abe8f2b7122d4e1e6"
+hash = "a9e15a7f9c5d27f6a664289d3beff7f96300edacc91317d0daffdddb1f218b05"
 metafile = true
 
 [[files]]
 file = "mods/upgraded-core.pw.toml"
-hash = "ab84b2f60168103548cab5576a35104bcbcc51d40458201cf3d5727c2262f09f"
+hash = "bf7f8e3dc9471d9c7c73f44a4a4d11d8fab9f28b6d528694aaf92c5bb06ed052"
 metafile = true
 
 [[files]]
@@ -425,12 +412,12 @@ metafile = true
 
 [[files]]
 file = "mods/upgraded-netherite-ultimerite.pw.toml"
-hash = "3a935ebb9aae0ceb250b55a062e52545276e564ce5ffd2341a0034214c721403"
+hash = "f000bc4bdd49014dc93aab06cfb6773ac7ab48da72f673ff368c835c75d637da"
 metafile = true
 
 [[files]]
 file = "mods/upgraded-netherite.pw.toml"
-hash = "c438aff6fad1d1d2258bef63813ff7dde6920a756ef34cc766be0a9e62416ded"
+hash = "2db90f584161cd236a6874e117f341154f5beb2b4f56b2fe70752b85ee466c30"
 metafile = true
 
 [[files]]
@@ -447,10 +434,6 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3d0e7fcc4b54e29b4ee0a73d0114a23505560a2779b7e25c34a26da62b203498"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "5d34857515bbda9eb86d725d77d98458d91fde28a4c80726d189174e17aac013"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"

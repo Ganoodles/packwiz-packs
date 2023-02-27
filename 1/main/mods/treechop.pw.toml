@@ -1,13 +1,13 @@
 name = "HT's TreeChop"
-filename = "TreeChop-1.19.2-forge-0.17.4.jar"
+filename = "TreeChop-1.19.2-fabric-0.17.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a74b8e4ef0312d34a54e899e39145bc2e5567415"
+hash = "e4e67f6850a8da4e56205a9a25983eb09ea29358"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4388495
+file-id = 4413708
 project-id = 421377
