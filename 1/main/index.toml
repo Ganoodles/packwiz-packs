@@ -6,6 +6,16 @@ hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "19dac6568f82ea6cd46ae33a380e0103500e2cf539bb7e9f8dc05ac7821ae7db"
+metafile = true
+
+[[files]]
+file = "mods/antixray-forge.pw.toml"
+hash = "7a217527b3ca7b0f786022a8d623560bfbb66afaae0adb293da4547171d48404"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -117,7 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "e7d10d0a09ad04ad80fa377243546f4aaf2740feac244a5409a01018160f62a6"
+hash = "8a851173b10ec36672b65944ad835595aba9484c5acb51e5ec48c827d150de12"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
 
 [[files]]
@@ -166,8 +181,18 @@ hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "69c5c1b59f9a5946cbcea6e4cfb318af9bdb43d5a24a86391f1c34b1ca845b58"
 metafile = true
 
 [[files]]
@@ -322,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "29763dd44c605cdb37dac57f7aaa180a71d71c3696b90ccbcd85523f4c7cd217"
+hash = "8b931cc221d3868b20fc3f7c81168b25cc95fa4dccdcea5e5e31b1fd11094d02"
 metafile = true
 
 [[files]]
@@ -362,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4d96a506e499dd7722bf1f371100b506dcba8ae3284f88ffefcb4d5c16fbcac8"
+hash = "f34239e9b16a6c52001f5311aa81313ee543163a2f24c820a4fb7cd0c7b226e3"
 metafile = true
 
 [[files]]
@@ -392,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "a9e15a7f9c5d27f6a664289d3beff7f96300edacc91317d0daffdddb1f218b05"
+hash = "10e54de0b00d998e476b115ee148a1ed9f756d7475cf5c5781b99da06a4c67a0"
 metafile = true
 
 [[files]]
