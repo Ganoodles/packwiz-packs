@@ -1,0 +1,13 @@
+name = "FellaPackOFM"
+author = "Ganoodles"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc407069200c17b2334e6021a4bc746f4b34b3e63dd5b967643a718db5f74bd2"
+
+[versions]
+forge = "43.2.0"
+minecraft = "1.19.2"

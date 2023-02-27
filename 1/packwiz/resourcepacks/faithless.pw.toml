@@ -1,0 +1,13 @@
+name = "Faithless"
+filename = "Faithless1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73b65047ac82751d1dac76e4248584659829da96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4332566
+project-id = 440897
