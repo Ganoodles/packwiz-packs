@@ -1,0 +1,13 @@
+name = "Upgraded Netherite : Creativerite"
+filename = "upgradednetherite_creative-1.19.2-4.1.0.1-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1d4025239133ad510a8c819508799ba45b817ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036847
+project-id = 566875
