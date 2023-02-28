@@ -1,0 +1,13 @@
+name = "Trofers"
+filename = "trofers-1.19.2-3.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60aa88e4bfc39f713ca9cb02b1475c7722a257f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4327542
+project-id = 482265

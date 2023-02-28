@@ -1,0 +1,13 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v4.0.7-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "954bc139e2352bcc2c25c7f14277b1d69e31a453"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4359128
+project-id = 666944

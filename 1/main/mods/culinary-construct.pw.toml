@@ -1,0 +1,13 @@
+name = "Culinary Construct (Forge/Fabric)"
+filename = "culinaryconstruct-forge-5.0.0-beta.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43205ead187cd5560485f537d63db3cfe63bb4b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4141301
+project-id = 296676
